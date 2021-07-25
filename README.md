@@ -10,6 +10,7 @@
 ---
 <ul>
 + [메인화면]: https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/VideoActivity.java
++ [README](https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/VideoActivity.java)
   
   
  </ul>
