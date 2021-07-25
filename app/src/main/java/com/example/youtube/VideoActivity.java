@@ -174,7 +174,7 @@ public class VideoActivity extends AppCompatActivity {
 
     //영상알람설정시 FCM 서버에 보낼 기기의 토큰데이터를 저장할 변수
     String token;
-    String apiKey = "AAAASS7TEQY:APA91bH-qwaudcEVcER7331nRkTb4RzAnhswyEB2D1xuFK5oz4kuu519_JuXH7oQL9REK_4pxqNKAATaj9bdWSPO5mNhI71LsAYLZh0doLKx7-tLfnEwclcLJLzEvEUpr1d853DIaOFc";
+    String apiKey = "";
     String title;
 
 
