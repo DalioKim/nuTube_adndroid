@@ -49,7 +49,7 @@ import android.widget.MediaController;
 public class WatchingLiveActivity extends GoCoderSDKActivityBase implements WOWZPlayerStatusCallback {
 
 
-    Uri uri = Uri.parse("http://192.168.219.106:1935/live/myStream/playlist.m3u8");
+    Uri uri = Uri.parse("");
     private static String TAG = "WatchingLiveActivity";
 
 
