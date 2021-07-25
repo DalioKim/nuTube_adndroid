@@ -47,7 +47,7 @@ public class BackgroundService extends Service {
     private MediaSource mediaSource;
     private TrackSelection.Factory trackSelectionFactory;
     private SimpleExoPlayer player;
-    private final String streamUrl = "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws";
+    private final String streamUrl = "";
 
     private static String TAG = "BackgroundService";
 
@@ -68,7 +68,7 @@ public class BackgroundService extends Service {
         mediaPlayer = new MediaPlayer();
         try {
 
-            String path = "http://15.164.98.15/videos/1585028201.mp4";
+            String path = "";
             mediaPlayer.setDataSource(path);
 
             //mediaPlayer.setVolume(0, 0); //볼륨 제거
@@ -119,7 +119,7 @@ public class BackgroundService extends Service {
         mediaPlayer = new MediaPlayer();
         try {
 
-            String path = "http://15.164.98.15/videos/1585028201.mp4";
+            String path = "";
             mediaPlayer.setDataSource(path);
 
             //mediaPlayer.setVolume(0, 0); //볼륨 제거
