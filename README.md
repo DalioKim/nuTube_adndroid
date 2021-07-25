@@ -9,7 +9,8 @@
 ## 기능 별 파일
 ---
 <ul>
-<a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/VideoActivity.java">메인화면</a>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/tree/master/app/src/main/java/com/example/youtube">전체</a>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/VideoActivity.java">메인화면</a>
   
   
  </ul>
