@@ -8,11 +8,16 @@
 
 ## 기능 별 파일
 ---
-<ul>
+
   <a href="https://github.com/DalioKim/nuTube_adndroid/tree/master/app/src/main/java/com/example/youtube">전체</a></br></br>
-  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/VideoActivity.java">메인화면</a></br></br>
-  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/WatchingActivity.java">라이브 시청</a></br></br>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/MainActivity.java">메인화면</a></br></br>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/VideoActivity.java">VOD 시청화면</a></br></br>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/WatchingActivity.java">Live 시청화면</a></br></br>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/UploadActivity.java">영상 업로드화면</a></br></br>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/UploadLiveActivity.java">Live 등록화면</a></br></br>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/BackgroundService.java">백그라운드 재생 파일</a></br></br>
+  <a href="https://github.com/DalioKim/nuTube_adndroid/blob/master/app/src/main/java/com/example/youtube/ExoPlayerRecyclerView.java">영상목록 리사이클러뷰(미리보기)</a></br></br>
 
   
   
- </ul>
+
