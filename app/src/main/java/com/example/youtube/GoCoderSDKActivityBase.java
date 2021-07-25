@@ -42,7 +42,7 @@ public class GoCoderSDKActivityBase extends AppCompatActivity implements WOWZSta
 
     private final static String TAG = "GoCoderSDKActivityBase";
 
-    private static final String SDK_SAMPLE_APP_LICENSE_KEY = "GOSK-A147-010C-F2CB-2A0E-EA7C";
+    private static final String SDK_SAMPLE_APP_LICENSE_KEY = "";
 
 
     private static final int PERMISSIONS_REQUEST_CODE = 0x1;
