@@ -11,7 +11,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class UploadRetrofit {
 
 
-    private static final String BASE_URL = "http://15.164.98.15/";
+    private static final String BASE_URL = "";
     private static Retrofit retrofit;
 
     public static Retrofit getRetrofitClient(Context context) {
