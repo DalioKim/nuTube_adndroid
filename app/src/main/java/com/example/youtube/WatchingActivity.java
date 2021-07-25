@@ -200,7 +200,7 @@ public class WatchingActivity extends AppCompatActivity {
         VideoView videoView = (VideoView) findViewById(R.id.videoView);
         button = findViewById(R.id.button);
 
-        String httpLiveUrl = "rtsp://192.168.0.103:1935/live/myStream";
+        String httpLiveUrl = "rtsp://";
 
 
         videoView.setVideoURI(Uri.parse(httpLiveUrl));
@@ -220,7 +220,7 @@ public class WatchingActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 try {
 
-                    String host = "15.164.98.15";
+                    String host = "";
                     int port = 5000;
                     //서버와 연결하는 소켓 생성..
                     socket = new Socket(host, port);
