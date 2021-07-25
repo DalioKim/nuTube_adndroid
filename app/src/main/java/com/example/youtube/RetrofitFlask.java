@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitFlask  {
 
-    private static final String API_URL = "http://54.180.8.33:5000";
+    private static final String API_URL = ":5000";
 
 
 
